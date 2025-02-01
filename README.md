@@ -4,7 +4,7 @@
 
 MacGuffin Hunter is an interactive game developed in MIPS assembly using the MARS simulator. The game features a player-controlled character navigating a structured arena to collect MacGuffins while avoiding enemies. The objective is to collect as many MacGuffins as possible before running out of lives.
 
-![This is what it looks like](game_pic.png)
+![This is what it looks like](game-pic.png)
 
 ## Game Mechanics
 ### Game Arena
